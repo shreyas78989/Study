@@ -9,7 +9,7 @@ class leapyear
         }
         else
         {
-            System.out.println("This year is not leap year");
+            System.out.println("This is common year");
         }
     }
 
